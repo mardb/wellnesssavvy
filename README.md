@@ -90,6 +90,8 @@ IOS app using swift: This app allows user to choose a wellness plan and track he
 
 ### Wireframes
 
+  <img src="https://github.com/mardb/wellnesssavvy/blob/master/fitnessapp1.gif" width=200>
+
 ---
 
 ### App Pitch Presentation
